@@ -1,4 +1,6 @@
 rdflib>=7.0.0
 sparqlwrapper>=2.0.0
-oxrdflib
-pandas
+beautifulsoup4>=4.12.3
+oxrdflib>=0.3.7
+pandas>=2.2.2
+lxml>=5.2.1
