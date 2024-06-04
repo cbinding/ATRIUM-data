@@ -3,6 +3,7 @@
 # then filters to highest scoring results
 import requests
 from difflib import SequenceMatcher
+import inflection as inf
 
 WIKIDATA_API_URL = "https://www.wikidata.org/w/api.php"
 
@@ -52,8 +53,8 @@ def align_keywords_with_wikidata(keywords):
 # Example usage - note "demonstrative pronouns" gives different results to "demonstrative pronoun"
 # one quick improvement would be preprocessing to make keywords singular to match Wikidata labels
 keywords = [
-    "demonstrative pronoun", 
-    "definite article", 
+    "demonstrative pronouns", 
+    "definite articles", 
     "grammaticalization", 
     "Old Egyptian", 
     "Coptic", 
@@ -62,7 +63,14 @@ keywords = [
     "dialect", 
     "ddc:417"
 ]
-aligned_results = align_keywords_with_wikidata(keywords)
+
+# ensure all keywords are singular form
+clean_keywords = map(lambda keyword: inf.singularize(keyword), keywords)
+
+# attempt to match keyword to Wikidata identifier
+aligned_results = align_keywords_with_wikidata(clean_keywords)
+
+# print results to screen
 for result in aligned_results:
     line = "{url:45}\"{keyword}\"".format(
         url=str(result['wikidata_url']), 
