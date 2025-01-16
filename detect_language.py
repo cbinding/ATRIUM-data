@@ -34,3 +34,4 @@ if tag:
 
     print(details)
     # (('ENGLISH', 'en', 69, 1150.0), ('ITALIAN', 'it', 30, 782.0), ('Unknown', 'un', 0, 0.0))
+

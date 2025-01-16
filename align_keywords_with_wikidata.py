@@ -7,8 +7,10 @@ import inflection as inf
 
 WIKIDATA_API_URL = "https://www.wikidata.org/w/api.php"
 
+
 def preprocess_keyword(keyword):
     return keyword.strip().lower()
+
 
 def query_wikidata(keyword):
     params = {
@@ -20,6 +22,7 @@ def query_wikidata(keyword):
     response = requests.get(WIKIDATA_API_URL, params=params)
     return response.json().get('search', [])
 
+
 def select_best_match(keyword, results):
     best_match = None
     highest_score = 0
@@ -29,6 +32,7 @@ def select_best_match(keyword, results):
             highest_score = score
             best_match = result
     return best_match
+
 
 def align_keywords_with_wikidata(keywords):
     aligned_results = []
@@ -49,6 +53,7 @@ def align_keywords_with_wikidata(keywords):
                 'wikidata_url': None
             })
     return aligned_results
+
 
 # Example usage - note "demonstrative pronouns" gives different results to "demonstrative pronoun"
 # one quick improvement would be preprocessing to make keywords singular to match Wikidata labels
