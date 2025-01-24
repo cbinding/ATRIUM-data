@@ -3,7 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://mappings-SSH-LCSH-to-AAT/> {
-    <http://mappings-SSH-LCSH-to-AAT/> dc:date "2025-01-16"^^xsd:date ;
+    <http://mappings-SSH-LCSH-to-AAT/> dc:date "2025-01-17"^^xsd:date ;
         dc:description "SSH-LCSH-to-AAT mappings generated from Wikidata"^^xsd:string ;
         dc:format "application/trig"^^xsd:string ;
         dc:identifier "http://mappings-SSH-LCSH-to-AAT/"^^xsd:string ;
@@ -137,6 +137,8 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh2002003644> skos:broadMatch <http://vocab.getty.edu/aat/300054195>,
             <http://vocab.getty.edu/aat/300417586> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh2002004175> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh2002004207> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2002004222> skos:broadMatch <http://vocab.getty.edu/aat/300054412> .
@@ -225,6 +227,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2003004186> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh2003004272> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh2003004278> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2003004290> skos:broadMatch <http://vocab.getty.edu/aat/300054245> .
@@ -256,6 +260,9 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2003009064> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh2003009146> skos:relatedMatch <http://vocab.getty.edu/aat/300111999>,
+            <http://vocab.getty.edu/aat/300222752> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh2003009199> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2003009211> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
@@ -279,7 +286,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2004000783> skos:broadMatch <http://vocab.getty.edu/aat/300111999> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh2004001046> skos:relatedMatch <http://vocab.getty.edu/aat/300136900> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh2004001046> skos:relatedMatch <http://vocab.getty.edu/aat/300136900>,
+            <http://vocab.getty.edu/aat/300201014> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2004001262> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
@@ -475,9 +483,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2006005506> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh2006005871> skos:relatedMatch <http://vocab.getty.edu/aat/300054290>,
-            <http://vocab.getty.edu/aat/300054360>,
-            <http://vocab.getty.edu/aat/300055939> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh2006005871> skos:relatedMatch <http://vocab.getty.edu/aat/300054360> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2006006329> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
@@ -487,7 +493,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2006006429> skos:broadMatch <http://vocab.getty.edu/aat/300054438> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh2006006884> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh2006006884> skos:relatedMatch <http://vocab.getty.edu/aat/300055835> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2006007023> skos:closeMatch <http://vocab.getty.edu/aat/300312269> .
 
@@ -608,7 +614,8 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh2007009426> skos:broadMatch <http://vocab.getty.edu/aat/300054195>,
             <http://vocab.getty.edu/aat/300417586> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh2007009497> skos:relatedMatch <http://vocab.getty.edu/aat/300263432> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh2007009497> skos:relatedMatch <http://vocab.getty.edu/aat/300201014>,
+            <http://vocab.getty.edu/aat/300263432> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2007009822> skos:broadMatch <http://vocab.getty.edu/aat/300417585> .
 
@@ -687,6 +694,8 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh2008006825> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2008006826> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh2008007033> skos:relatedMatch <http://vocab.getty.edu/aat/300137794> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2008007164> skos:broadMatch <http://vocab.getty.edu/aat/300175240> .
 
@@ -995,6 +1004,9 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2012003699> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh2012003892> skos:relatedMatch <http://vocab.getty.edu/aat/300167056>,
+            <http://vocab.getty.edu/aat/300400522> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh2012004007> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2012004468> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
@@ -1291,7 +1303,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2018003243> skos:broadMatch <http://vocab.getty.edu/aat/300069831> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh2018003244> skos:relatedMatch <http://vocab.getty.edu/aat/300054412> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh2018003244> skos:relatedMatch <http://vocab.getty.edu/aat/300133011> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2019000174> skos:broadMatch <http://vocab.getty.edu/aat/300054315> .
 
@@ -1303,7 +1315,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2019000431> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh2019000547> skos:relatedMatch <http://vocab.getty.edu/aat/300136900> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh2019000547> skos:relatedMatch <http://vocab.getty.edu/aat/300136900>,
+            <http://vocab.getty.edu/aat/300201014> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh2019000605> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
@@ -1368,6 +1381,8 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85001256> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85001263> skos:broadMatch <http://vocab.getty.edu/aat/300054388> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85001380> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85001438> skos:closeMatch <http://vocab.getty.edu/aat/300018124> .
 
@@ -1437,6 +1452,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85005227> skos:broadMatch <http://vocab.getty.edu/aat/300054446> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85005279> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85005282> skos:relatedMatch <http://vocab.getty.edu/aat/300054140> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85005293> skos:closeMatch <http://vocab.getty.edu/aat/300072604> .
@@ -1460,7 +1477,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85006003> skos:broadMatch <http://vocab.getty.edu/aat/300247276> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85006006> skos:relatedMatch <http://vocab.getty.edu/aat/300417817> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85006006> skos:relatedMatch <http://vocab.getty.edu/aat/300026030> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85006065> skos:closeMatch <http://vocab.getty.edu/aat/300435319> .
 
@@ -1473,6 +1490,9 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85006289> skos:closeMatch <http://vocab.getty.edu/aat/300010206> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85006314> skos:broadMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85006343> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
             <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85006507> skos:closeMatch <http://vocab.getty.edu/aat/300054328> .
@@ -1618,6 +1638,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85008936> skos:broadMatch <http://vocab.getty.edu/aat/300054446> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85008971> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85009052> skos:broadMatch <http://vocab.getty.edu/aat/300054245> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85009064> skos:broadMatch <http://vocab.getty.edu/aat/300054288> .
@@ -1704,7 +1726,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85014117> skos:closeMatch <http://vocab.getty.edu/aat/300417795> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85014147> skos:broadMatch <http://vocab.getty.edu/aat/300054388> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85014147> skos:broadMatch <http://vocab.getty.edu/aat/300054466> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85014149> skos:broadMatch <http://vocab.getty.edu/aat/300055918> .
 
@@ -1719,7 +1741,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85014553> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85014576> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85014576> skos:relatedMatch <http://vocab.getty.edu/aat/300137794> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85014635> skos:relatedMatch <http://vocab.getty.edu/aat/300054140> .
 
@@ -1859,13 +1881,17 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85023721> skos:broadMatch <http://vocab.getty.edu/aat/300055931>,
             <http://vocab.getty.edu/aat/300263209> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85023776> skos:relatedMatch <http://vocab.getty.edu/aat/300025945> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85023776> skos:relatedMatch <http://vocab.getty.edu/aat/300025945>,
+            <http://vocab.getty.edu/aat/300026669> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85023779> skos:broadMatch <http://vocab.getty.edu/aat/300167056>,
             <http://vocab.getty.edu/aat/300400522> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85023780> skos:broadMatch <http://vocab.getty.edu/aat/300055918>,
             <http://vocab.getty.edu/aat/300263209> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85023846> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85024618> skos:broadMatch <http://vocab.getty.edu/aat/300054446> .
 
@@ -1892,13 +1918,17 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85025520> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85025534> skos:relatedMatch <http://vocab.getty.edu/aat/300235937> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85025534> skos:relatedMatch <http://vocab.getty.edu/aat/300236157> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85025619> skos:broadMatch <http://vocab.getty.edu/aat/300054309> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85025625> skos:relatedMatch <http://vocab.getty.edu/aat/300054394> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85025625> skos:relatedMatch <http://vocab.getty.edu/aat/300054309> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85025851> skos:relatedMatch <http://vocab.getty.edu/aat/300054300> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85025851> skos:relatedMatch <http://vocab.getty.edu/aat/300054300>,
+            <http://vocab.getty.edu/aat/300069049>,
+            <http://vocab.getty.edu/aat/300379242> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85025853> skos:relatedMatch <http://vocab.getty.edu/aat/300026669> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85026205> skos:closeMatch <http://vocab.getty.edu/aat/300262481> .
 
@@ -1908,7 +1938,13 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85026423> skos:broadMatch <http://vocab.getty.edu/aat/300026009> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85026424> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85026449> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85026455> skos:closeMatch <http://vocab.getty.edu/aat/300018874> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85026458> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85026463> skos:broadMatch <http://vocab.getty.edu/aat/300026009> .
 
@@ -2061,6 +2097,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85029256> skos:relatedMatch <http://vocab.getty.edu/aat/300054140> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85029295> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85029296> skos:broadMatch <http://vocab.getty.edu/aat/300054359> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85029298> skos:closeMatch <http://vocab.getty.edu/aat/300054439> .
@@ -2097,6 +2135,8 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85029406> skos:relatedMatch <http://vocab.getty.edu/aat/300137794> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85029423> skos:broadMatch <http://vocab.getty.edu/aat/300220066> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85029572> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85029623> skos:broadMatch <http://vocab.getty.edu/aat/300054288>,
             <http://vocab.getty.edu/aat/300054446> .
@@ -2334,7 +2374,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85037393> skos:broadMatch <http://vocab.getty.edu/aat/300056005> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85037397> skos:relatedMatch <http://vocab.getty.edu/aat/300054300> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85037397> skos:relatedMatch <http://vocab.getty.edu/aat/300054300>,
+            <http://vocab.getty.edu/aat/300056005> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85037398> skos:relatedMatch <http://vocab.getty.edu/aat/300417585>,
             <http://vocab.getty.edu/aat/300417817> .
@@ -2372,7 +2413,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85038362> skos:broadMatch <http://vocab.getty.edu/aat/300054268> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85038363> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85038363> skos:relatedMatch <http://vocab.getty.edu/aat/300055835> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85038386> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
@@ -2525,8 +2566,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85044118> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85044148> skos:relatedMatch <http://vocab.getty.edu/aat/300417554>,
-            <http://vocab.getty.edu/aat/300417798> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85044148> skos:relatedMatch <http://vocab.getty.edu/aat/300055922> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85044169> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
@@ -2756,6 +2796,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85048596> skos:broadMatch <http://vocab.getty.edu/aat/300185346> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85048827> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85048843> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85049650> skos:closeMatch <http://vocab.getty.edu/aat/300056487> .
@@ -2763,6 +2805,12 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85049702> skos:broadMatch <http://vocab.getty.edu/aat/300073472> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85049705> skos:broadMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85049796> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85049824> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
             <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85049835> skos:broadMatch <http://vocab.getty.edu/aat/300055920> .
@@ -2819,6 +2867,15 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85051865> skos:broadMatch <http://vocab.getty.edu/aat/300054273>,
             <http://vocab.getty.edu/aat/300180362> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85051866> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85051871> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85051892> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85052322> skos:broadMatch <http://vocab.getty.edu/aat/300054245> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85052323> skos:broadMatch <http://vocab.getty.edu/aat/300054446> .
@@ -2835,8 +2892,9 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85052421> skos:broadMatch <http://vocab.getty.edu/aat/300026294>,
             <http://vocab.getty.edu/aat/300026669> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85052425> skos:relatedMatch <http://vocab.getty.edu/aat/300055807>,
-            <http://vocab.getty.edu/aat/300056005> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85052425> skos:relatedMatch <http://vocab.getty.edu/aat/300056005>,
+            <http://vocab.getty.edu/aat/300069084>,
+            <http://vocab.getty.edu/aat/300312160> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85052619> skos:closeMatch <http://vocab.getty.edu/aat/300021374> .
 
@@ -3002,7 +3060,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85061663> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85061754> skos:relatedMatch <http://vocab.getty.edu/aat/300054300> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85061754> skos:relatedMatch <http://vocab.getty.edu/aat/300026669>,
+            <http://vocab.getty.edu/aat/300054300> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85061787> skos:broadMatch <http://vocab.getty.edu/aat/300054195>,
             <http://vocab.getty.edu/aat/300417586> .
@@ -3115,7 +3174,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85064628> skos:broadMatch <http://vocab.getty.edu/aat/300054438> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85064663> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85064663> skos:relatedMatch <http://vocab.getty.edu/aat/300055835> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85064679> skos:broadMatch <http://vocab.getty.edu/aat/300054446>,
             <http://vocab.getty.edu/aat/300055150> .
@@ -3284,20 +3343,25 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85068642> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85068785> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85068816> skos:broadMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85068841> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
             <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85069694> skos:broadMatch <http://vocab.getty.edu/aat/300055931> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85070320> skos:relatedMatch <http://vocab.getty.edu/aat/300054290>,
-            <http://vocab.getty.edu/aat/300054360>,
-            <http://vocab.getty.edu/aat/300055939> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85070320> skos:relatedMatch <http://vocab.getty.edu/aat/300054360> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85070331> skos:broadMatch <http://vocab.getty.edu/aat/300417817> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85070344> skos:relatedMatch <http://vocab.getty.edu/aat/300417817> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85070344> skos:relatedMatch <http://vocab.getty.edu/aat/300026669>,
+            <http://vocab.getty.edu/aat/300417817> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85070359> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85070359> skos:relatedMatch <http://vocab.getty.edu/aat/300137794> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85070736> skos:closeMatch <http://vocab.getty.edu/aat/300054354> .
 
@@ -3395,6 +3459,8 @@
             <http://vocab.getty.edu/aat/300224742> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85075520> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85075529> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85075704> skos:broadMatch <http://vocab.getty.edu/aat/300054446> .
 
@@ -3768,14 +3834,16 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85087567> skos:relatedMatch <http://vocab.getty.edu/aat/300054360> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85087702> skos:broadMatch <http://vocab.getty.edu/aat/300264590>,
-            <http://vocab.getty.edu/aat/300387357> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85087702> skos:broadMatch <http://vocab.getty.edu/aat/300264590> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85087721> skos:closeMatch <http://vocab.getty.edu/aat/300008024> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85087798> skos:broadMatch <http://vocab.getty.edu/aat/300054316> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85087976> skos:broadMatch <http://vocab.getty.edu/aat/300055807> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85088014> skos:relatedMatch <http://vocab.getty.edu/aat/300054446>,
+            <http://vocab.getty.edu/aat/300054471> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85088016> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
@@ -3955,12 +4023,16 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85093747> skos:broadMatch <http://vocab.getty.edu/aat/300054288>,
             <http://vocab.getty.edu/aat/300054446> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85093796> skos:relatedMatch <http://vocab.getty.edu/aat/300026669> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85093798> skos:relatedMatch <http://vocab.getty.edu/aat/300056005> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85093800> skos:closeMatch <http://vocab.getty.edu/aat/300312059> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85093855> skos:broadMatch <http://vocab.getty.edu/aat/300054360>,
             <http://vocab.getty.edu/aat/300188820> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85093877> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85094075> skos:closeMatch <http://vocab.getty.edu/aat/300253045> .
 
@@ -4051,7 +4123,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85098241> skos:broadMatch <http://vocab.getty.edu/aat/300178591> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85098245> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85098245> skos:relatedMatch <http://vocab.getty.edu/aat/300137794> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85098254> skos:closeMatch <http://vocab.getty.edu/aat/300055828> .
 
@@ -4149,6 +4221,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85100989> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85100998> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85100999> skos:broadMatch <http://vocab.getty.edu/aat/300054300> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85101001> skos:broadMatch <http://vocab.getty.edu/aat/300054314> .
@@ -4200,6 +4274,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85102580> skos:closeMatch <http://vocab.getty.edu/aat/300055298> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85103032> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85103033> skos:broadMatch <http://vocab.getty.edu/aat/300054394> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85103327> skos:closeMatch <http://vocab.getty.edu/aat/300055969> .
@@ -4236,6 +4312,21 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85104239> skos:broadMatch <http://vocab.getty.edu/aat/300054438> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85104301> skos:broadMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85104302> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85104306> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85104308> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85104309> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85104311> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
             <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85104317> skos:broadMatch <http://vocab.getty.edu/aat/300026657> .
@@ -4370,6 +4461,8 @@
             <http://vocab.getty.edu/aat/300055715>,
             <http://vocab.getty.edu/aat/300055767>,
             <http://vocab.getty.edu/aat/300138242> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85107318> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85107319> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
@@ -4563,6 +4656,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85112555> skos:broadMatch <http://vocab.getty.edu/aat/300054300> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85112564> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85112565> skos:broadMatch <http://vocab.getty.edu/aat/300055768> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85112568> skos:broadMatch <http://vocab.getty.edu/aat/300054392> .
@@ -4580,6 +4675,8 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85112589> skos:broadMatch <http://vocab.getty.edu/aat/300054136> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85112597> skos:relatedMatch <http://vocab.getty.edu/aat/300054360> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85112599> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85112608> skos:broadMatch <http://vocab.getty.edu/aat/300054300> .
 
@@ -4608,7 +4705,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85112915> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85112916> skos:relatedMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85112916> skos:relatedMatch <http://vocab.getty.edu/aat/300055835> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85112927> skos:broadMatch <http://vocab.getty.edu/aat/300387357> .
 
@@ -4646,9 +4743,10 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85113832> skos:broadMatch <http://vocab.getty.edu/aat/300054280>,
             <http://vocab.getty.edu/aat/300312347> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85113965> skos:relatedMatch <http://vocab.getty.edu/aat/300055920>,
-            <http://vocab.getty.edu/aat/300129439>,
-            <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85113965> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300069186>,
+            <http://vocab.getty.edu/aat/300137794>,
+            <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85114075> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
@@ -4751,7 +4849,7 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh85119749> skos:broadMatch <http://vocab.getty.edu/aat/300054452>,
             <http://vocab.getty.edu/aat/300054453> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85119773> skos:relatedMatch <http://vocab.getty.edu/aat/300054446> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85119773> skos:relatedMatch <http://vocab.getty.edu/aat/300055149> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85119870> skos:closeMatch <http://vocab.getty.edu/aat/300054268> .
 
@@ -5022,7 +5120,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85128515> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85128571> skos:relatedMatch <http://vocab.getty.edu/aat/300055918> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85128571> skos:relatedMatch <http://vocab.getty.edu/aat/300202580> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85128589> skos:closeMatch <http://vocab.getty.edu/aat/300026739> .
 
@@ -5032,7 +5130,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85129192> skos:broadMatch <http://vocab.getty.edu/aat/300054316> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85129194> skos:relatedMatch <http://vocab.getty.edu/aat/300054183> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85129194> skos:relatedMatch <http://vocab.getty.edu/aat/300054462>,
+            <http://vocab.getty.edu/aat/300138082> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85129198> skos:closeMatch <http://vocab.getty.edu/aat/300054506> .
 
@@ -5350,7 +5449,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85141939> skos:closeMatch <http://vocab.getty.edu/aat/300379408> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85141948> skos:relatedMatch <http://vocab.getty.edu/aat/300055920> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85141948> skos:broadMatch <http://vocab.getty.edu/aat/300375725> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85142883> skos:relatedMatch <http://vocab.getty.edu/aat/300054280>,
             <http://vocab.getty.edu/aat/300312347> .
@@ -5389,7 +5488,11 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85144443> skos:broadMatch <http://vocab.getty.edu/aat/300054388> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh85144838> skos:relatedMatch <http://vocab.getty.edu/aat/300055931> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh85145144> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh85145146> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85145148> skos:broadMatch <http://vocab.getty.edu/aat/300054360> .
 
@@ -5428,7 +5531,7 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85147112> skos:broadMatch <http://vocab.getty.edu/aat/300417585> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh85147124> skos:broadMatch <http://vocab.getty.edu/aat/300417585> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh85147124> skos:broadMatch <http://vocab.getty.edu/aat/300137794> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh85147267> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
@@ -5558,11 +5661,16 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh86005590> skos:broadMatch <http://vocab.getty.edu/aat/300417585> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh86005866> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh86005903> skos:relatedMatch <http://vocab.getty.edu/aat/300054140> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh86006042> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh86006104> skos:broadMatch <http://vocab.getty.edu/aat/300054686> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh86006119> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh86006230> skos:broadMatch <http://vocab.getty.edu/aat/300054245> .
 
@@ -5584,6 +5692,10 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh86007278> skos:broadMatch <http://vocab.getty.edu/aat/300054315> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh86007294> skos:broadMatch <http://vocab.getty.edu/aat/300054245> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh86007345> skos:relatedMatch <http://vocab.getty.edu/aat/300026669>,
+            <http://vocab.getty.edu/aat/300167056>,
+            <http://vocab.getty.edu/aat/300400522> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh86007427> skos:broadMatch <http://vocab.getty.edu/aat/300417585> .
 
@@ -5777,6 +5889,9 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh89001112> skos:closeMatch <http://vocab.getty.edu/aat/300056522> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh89001581> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh89002313> skos:broadMatch <http://vocab.getty.edu/aat/300054328> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh89002492> skos:broadMatch <http://vocab.getty.edu/aat/300411839> .
@@ -5890,6 +6005,10 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh90001841> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh90002162> skos:broadMatch <http://vocab.getty.edu/aat/300054438> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh90002369> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh90002370> skos:relatedMatch <http://vocab.getty.edu/aat/300026009> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh90002602> skos:broadMatch <http://vocab.getty.edu/aat/300054446> .
 
@@ -6012,7 +6131,8 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh92005032> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh92005157> skos:relatedMatch <http://vocab.getty.edu/aat/300054388> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh92005157> skos:relatedMatch <http://vocab.getty.edu/aat/300054359>,
+            <http://vocab.getty.edu/aat/300054392> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh92005388> skos:broadMatch <http://vocab.getty.edu/aat/300054388> .
 
@@ -6095,9 +6215,9 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh94000659> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
-    <http://semantics.gr/authorities/SSH-LCSH/sh94000854> skos:relatedMatch <http://vocab.getty.edu/aat/300026020>,
-            <http://vocab.getty.edu/aat/300054300>,
-            <http://vocab.getty.edu/aat/300054360> .
+    <http://semantics.gr/authorities/SSH-LCSH/sh94000854> skos:relatedMatch <http://vocab.getty.edu/aat/300054300>,
+            <http://vocab.getty.edu/aat/300054360>,
+            <http://vocab.getty.edu/aat/300145966> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh94001033> skos:broadMatch <http://vocab.getty.edu/aat/300055985>,
             <http://vocab.getty.edu/aat/300417629> .
@@ -6112,6 +6232,9 @@
 
     <http://semantics.gr/authorities/SSH-LCSH/sh94002794> skos:broadMatch <http://vocab.getty.edu/aat/300054279> .
 
+    <http://semantics.gr/authorities/SSH-LCSH/sh94003073> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
+
     <http://semantics.gr/authorities/SSH-LCSH/sh94004156> skos:relatedMatch <http://vocab.getty.edu/aat/300054140> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh94004475> skos:broadMatch <http://vocab.getty.edu/aat/300417585> .
@@ -6125,6 +6248,9 @@
     <http://semantics.gr/authorities/SSH-LCSH/sh94005519> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh94005583> skos:broadMatch <http://vocab.getty.edu/aat/300055812> .
+
+    <http://semantics.gr/authorities/SSH-LCSH/sh94006190> skos:relatedMatch <http://vocab.getty.edu/aat/300054273>,
+            <http://vocab.getty.edu/aat/300180362> .
 
     <http://semantics.gr/authorities/SSH-LCSH/sh94006947> skos:broadMatch <http://vocab.getty.edu/aat/300054300> .
 

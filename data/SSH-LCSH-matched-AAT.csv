@@ -1487,7 +1487,6 @@ http://semantics.gr/authorities/SSH-LCSH/sh85029143,Communism and geography,http
 http://semantics.gr/authorities/SSH-LCSH/sh2003001358,Art and geography,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054388,geography
 http://semantics.gr/authorities/SSH-LCSH/sh2001001798,"Naval art and science, Effect of geography on",http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054388,geography
 http://semantics.gr/authorities/SSH-LCSH/sh85054021,Mathematical geography,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054388,geography
-http://semantics.gr/authorities/SSH-LCSH/sh85014147,Biogeography,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054388,geography
 http://semantics.gr/authorities/SSH-LCSH/sh98006004,Christianity and geography,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054388,geography
 http://semantics.gr/authorities/SSH-LCSH/sh85104345,Political anthropology,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137966,social anthropology
 http://semantics.gr/authorities/SSH-LCSH/sh2003004295,Mass media and anthropology,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137966,social anthropology
@@ -1887,6 +1886,7 @@ http://semantics.gr/authorities/SSH-LCSH/sh85029042,"Communication, Internationa
 http://semantics.gr/authorities/SSH-LCSH/sh85074546,Language arts,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh85029044,Communication and traffic,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh2006001192,"Children with visual disabilities, Means of communication",http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
+http://semantics.gr/authorities/SSH-LCSH/sh85147124,Wit and humor,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh87002567,"People with visual disabilities, Means of communication",http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh86007016,"Older people, Communication",http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh2001010616,Chinese walls (Communication barriers),http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300137794,communication
@@ -2124,6 +2124,7 @@ http://semantics.gr/authorities/SSH-LCSH/sh85089405,Jewish mythology,http://www.
 http://semantics.gr/authorities/SSH-LCSH/sh85089398,Hindu mythology,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417629,mythologies
 http://semantics.gr/authorities/SSH-LCSH/sh85131408,Symbolism,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417629,mythologies
 http://semantics.gr/authorities/SSH-LCSH/sh85014167,Biolinguistics,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054466,biology
+http://semantics.gr/authorities/SSH-LCSH/sh85014147,Biogeography,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054466,biology
 http://semantics.gr/authorities/SSH-LCSH/sh2003001102,Television and art,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054195,fine arts
 http://semantics.gr/authorities/SSH-LCSH/sh2008004893,Outdoor art,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054195,fine arts
 http://semantics.gr/authorities/SSH-LCSH/sh85062873,Human figure in art,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300054195,fine arts
@@ -2294,7 +2295,6 @@ http://semantics.gr/authorities/SSH-LCSH/sh85130442,Summer theater,http://www.w3
 http://semantics.gr/authorities/SSH-LCSH/sh85001440,Aestheticism (Literature),http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300021439,Decadent Movement
 http://semantics.gr/authorities/SSH-LCSH/sh85030697,Concrete art,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417511,abstract
 http://semantics.gr/authorities/SSH-LCSH/sh85077490,Literary form,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300387357,works
-http://semantics.gr/authorities/SSH-LCSH/sh85087702,Mottoes,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300387357,works
 http://semantics.gr/authorities/SSH-LCSH/sh85112927,Reportage literature,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300387357,works
 http://semantics.gr/authorities/SSH-LCSH/sh85046027,Evocation,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300065284,rituals
 http://semantics.gr/authorities/SSH-LCSH/sh85135702,Toasts,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300065284,rituals
@@ -2774,7 +2774,6 @@ http://semantics.gr/authorities/SSH-LCSH/sh85047145,Fantasy literature,http://ww
 http://semantics.gr/authorities/SSH-LCSH/sh98001373,Automobile industry workers' writings,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh2010003866,Protagonists (Persons) in literature,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85108486,Psychology and literature,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85147124,Wit and humor,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh2005006941,Caregivers' writings,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh2007001138,Suicide and literature,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh2007001592,"People with social disabilities, Writings of",http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300417585,literature
@@ -3244,6 +3243,7 @@ http://semantics.gr/authorities/SSH-LCSH/sh85045994,Evidence,http://www.w3.org/2
 http://semantics.gr/authorities/SSH-LCSH/sh87006375,,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300375725,legendary beings
 http://semantics.gr/authorities/SSH-LCSH/sh85137487,Tricksters,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300375725,legendary beings
 http://semantics.gr/authorities/SSH-LCSH/sh86003127,Goblins,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300375725,legendary beings
+http://semantics.gr/authorities/SSH-LCSH/sh85141948,Vampires,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300375725,legendary beings
 http://semantics.gr/authorities/SSH-LCSH/sh97001717,Electronic information resources,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054574,information science
 http://semantics.gr/authorities/SSH-LCSH/sh96004573,Collection management (Libraries),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054576,library science
 http://semantics.gr/authorities/SSH-LCSH/sh85036288,Islamic decoration and ornament,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054168,decorative arts
@@ -3251,8 +3251,10 @@ http://semantics.gr/authorities/SSH-LCSH/sh85136889,Transcription,http://www.w3.
 http://semantics.gr/authorities/SSH-LCSH/sh85000691,Acting,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055193,language
 http://semantics.gr/authorities/SSH-LCSH/sh85074523,"Language and languages, Etymology",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300389745,ancient languages
 http://semantics.gr/authorities/SSH-LCSH/sh85070344,Jewish sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417817,religious literature
-http://semantics.gr/authorities/SSH-LCSH/sh85006006,Apocryphal books,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417817,religious literature
 http://semantics.gr/authorities/SSH-LCSH/sh85037398,Devotional literature,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417817,religious literature
+http://semantics.gr/authorities/SSH-LCSH/sh85052425,Funeral service,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300312160,rites
+http://semantics.gr/authorities/SSH-LCSH/sh85044148,Entremés,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055922,folk tales
+http://semantics.gr/authorities/SSH-LCSH/sh2003009146,"Warhammer 40,000 (Game)",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300111999,publications
 http://semantics.gr/authorities/SSH-LCSH/sh88001413,Literacy programs,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300250434,literacy
 http://semantics.gr/authorities/SSH-LCSH/sh85109130,Puns and punning,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054268,semantics
 http://semantics.gr/authorities/SSH-LCSH/sh2006008366,Second Sophistic movement,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054279,philosophy
@@ -3270,15 +3272,41 @@ http://semantics.gr/authorities/SSH-LCSH/sh90005998,"Legends, England",http://ww
 http://semantics.gr/authorities/SSH-LCSH/sh2008106888,"Legends, Korea",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh93008378,"Legends, Germany",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh2009129476,"Legends, North America",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
-http://semantics.gr/authorities/SSH-LCSH/sh85141948,Vampires,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh85075787,Christian legends,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh86007901,Cerberus (Greek mythology),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh85137988,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh87003332,Elves,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
-http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055920,folklore
 http://semantics.gr/authorities/SSH-LCSH/sh85052948,Games,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055810,etiquette
-http://semantics.gr/authorities/SSH-LCSH/sh2018003244,Court proceedings,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054412,law
+http://semantics.gr/authorities/SSH-LCSH/sh85112599,Religions,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85001380,Aeronautics and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh86006119,Medievalism,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85026424,"Civilization, History",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh90002369,Soil and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85103032,Plants and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh90002370,Water and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85093877,Ocean and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85029295,Comparative civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85026458,Islamic civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85145146,War and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85075529,Learning and scholarship,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85107318,Progress,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85100998,Philosophy and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85026449,Christian civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh2002004175,Climate and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh2003004272,Nature and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85112564,Religion and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85005279,Animals and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85008971,Astronautics and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85048827,Fishes and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85029572,Computers and civilization,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026009,societies
+http://semantics.gr/authorities/SSH-LCSH/sh85025534,Church and state,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300236157,political divisions
 http://semantics.gr/authorities/SSH-LCSH/sh85137325,Trial practice,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054412,law
+http://semantics.gr/authorities/SSH-LCSH/sh86007345,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026669,sermons
+http://semantics.gr/authorities/SSH-LCSH/sh85061754,Homiletical illustrations,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026669,sermons
+http://semantics.gr/authorities/SSH-LCSH/sh85070344,Jewish sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026669,sermons
+http://semantics.gr/authorities/SSH-LCSH/sh85025853,Church year sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026669,sermons
+http://semantics.gr/authorities/SSH-LCSH/sh85023776,Children's sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026669,sermons
+http://semantics.gr/authorities/SSH-LCSH/sh85093796,Occasional sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026669,sermons
 http://semantics.gr/authorities/SSH-LCSH/sh93003044,"Gauchos, Material culture",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055768,culture
 http://semantics.gr/authorities/SSH-LCSH/sh2018002652,"Indigenous peoples, Material culture",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055768,culture
 http://semantics.gr/authorities/SSH-LCSH/sh2014100037,"Cowboys, Material culture",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055768,culture
@@ -3288,9 +3316,13 @@ http://semantics.gr/authorities/SSH-LCSH/sh94000854,Mystagogy,http://www.w3.org/
 http://semantics.gr/authorities/SSH-LCSH/sh85126758,Spiritual life,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054300,religion
 http://semantics.gr/authorities/SSH-LCSH/sh85025851,Church year,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054300,religion
 http://semantics.gr/authorities/SSH-LCSH/sh85037397,Devotional exercises,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054300,religion
+http://semantics.gr/authorities/SSH-LCSH/sh92005157,"Mortgage loans, Geographical distribution",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054359,economics
 http://semantics.gr/authorities/SSH-LCSH/sh85010117,"Automation, Economic aspects",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054359,economics
 http://semantics.gr/authorities/SSH-LCSH/sh99004266,Cultural industries,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054359,economics
-http://semantics.gr/authorities/SSH-LCSH/sh92005157,"Mortgage loans, Geographical distribution",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054388,geography
+http://semantics.gr/authorities/SSH-LCSH/sh2006006884,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055835,style
+http://semantics.gr/authorities/SSH-LCSH/sh85112916,Repetition (Rhetoric),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055835,style
+http://semantics.gr/authorities/SSH-LCSH/sh85064663,Impressionism,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055835,style
+http://semantics.gr/authorities/SSH-LCSH/sh85038363,"Discourse analysis, Literary",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055835,style
 http://semantics.gr/authorities/SSH-LCSH/sh85077709,Little theater movement,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054140,performing arts
 http://semantics.gr/authorities/SSH-LCSH/sh95010699,Video recording in the theater,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054140,performing arts
 http://semantics.gr/authorities/SSH-LCSH/sh2013002525,Slave trade in the theater,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054140,performing arts
@@ -3384,8 +3416,30 @@ http://semantics.gr/authorities/SSH-LCSH/sh93007399,Studio theater,http://www.w3
 http://semantics.gr/authorities/SSH-LCSH/sh2012000636,Masculinity in the theater,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054140,performing arts
 http://semantics.gr/authorities/SSH-LCSH/sh2004009860,Homosexuality in the theater,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054140,performing arts
 http://semantics.gr/authorities/SSH-LCSH/sh85134563,"Theater, Open-air",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054140,performing arts
+http://semantics.gr/authorities/SSH-LCSH/sh85128571,Stream of consciousness fiction,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300202580,novels
 http://semantics.gr/authorities/SSH-LCSH/sh85048175,Figures of speech,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055985,mythology
+http://semantics.gr/authorities/SSH-LCSH/sh85068841,Italian poetry,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85104302,"Polish literature, To 1500",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85051892,French poetry,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85104311,"Polish literature, History and criticism",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85104309,"Polish literature, 20th century, History and criticism",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85068785,Italian drama,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85104306,"Polish literature, 19th century",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh89001581,"Polish literature, 19th century, History and criticism",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh94006190,"Children's writings, Italian",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85049796,"Folk literature, Polish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85104308,"Polish literature, 20th century",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh86005866,"Children's literature, Polish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85006343,Arabic prose literature,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85051866,"French literature, To 1500",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh94003073,"Pastoral literature, Italian",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85023846,"Children's writings, Czech",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85049824,"Folk literature, Turkish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85051871,"French literature, 20th century",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054273,literary studies
+http://semantics.gr/authorities/SSH-LCSH/sh85025851,Church year,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300069049,holidays
 http://semantics.gr/authorities/SSH-LCSH/sh92004318,"Children's periodicals, Polish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026657,periodicals
+http://semantics.gr/authorities/SSH-LCSH/sh92005157,"Mortgage loans, Geographical distribution",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054392,human geography
 http://semantics.gr/authorities/SSH-LCSH/sh2007009497,Situation comedies (Television programs),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300263432,television programs
 http://semantics.gr/authorities/SSH-LCSH/sh85104881,"Popes, Temporal power",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300237007,monarchs
 http://semantics.gr/authorities/SSH-LCSH/sh85142883,Versification,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054280,aesthetics
@@ -3393,45 +3447,75 @@ http://semantics.gr/authorities/SSH-LCSH/sh93004725,Doctrine of the affections,h
 http://semantics.gr/authorities/SSH-LCSH/sh85129380,"Style, Musical",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054280,aesthetics
 http://semantics.gr/authorities/SSH-LCSH/sh85127241,Stage directions,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417554,drama
 http://semantics.gr/authorities/SSH-LCSH/sh85022627,Charades,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417554,drama
-http://semantics.gr/authorities/SSH-LCSH/sh85044148,Entremés,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417554,drama
 http://semantics.gr/authorities/SSH-LCSH/sh85134575,Theater of the absurd,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417554,drama
 http://semantics.gr/authorities/SSH-LCSH/sh85131807,Tableaux,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417554,drama
+http://semantics.gr/authorities/SSH-LCSH/sh86007345,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300400522,songs
 http://semantics.gr/authorities/SSH-LCSH/sh98003710,Alma maters (Songs),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300400522,songs
+http://semantics.gr/authorities/SSH-LCSH/sh2012003892,Epicedia,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300400522,songs
 http://semantics.gr/authorities/SSH-LCSH/sh85077486,Literary calendars,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026646,yearbooks
+http://semantics.gr/authorities/SSH-LCSH/sh85006006,Apocryphal books,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026030,documents
+http://semantics.gr/authorities/SSH-LCSH/sh85068841,Italian poetry,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85104302,"Polish literature, To 1500",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85051892,French poetry,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85104311,"Polish literature, History and criticism",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85104309,"Polish literature, 20th century, History and criticism",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85068785,Italian drama,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85104306,"Polish literature, 19th century",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh89001581,"Polish literature, 19th century, History and criticism",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh94006190,"Children's writings, Italian",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85049796,"Folk literature, Polish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85104308,"Polish literature, 20th century",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh86005866,"Children's literature, Polish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85006343,Arabic prose literature,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85051866,"French literature, To 1500",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh94003073,"Pastoral literature, Italian",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85023846,"Children's writings, Czech",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85049824,"Folk literature, Turkish",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85051871,"French literature, 20th century",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300180362,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85093798,Occasional services,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300056005,worship
 http://semantics.gr/authorities/SSH-LCSH/sh85052425,Funeral service,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300056005,worship
+http://semantics.gr/authorities/SSH-LCSH/sh85037397,Devotional exercises,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300056005,worship
 http://semantics.gr/authorities/SSH-LCSH/sh85033847,Creative writing,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300056115,imagination
-http://semantics.gr/authorities/SSH-LCSH/sh94000854,Mystagogy,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300026020,secret societies
+http://semantics.gr/authorities/SSH-LCSH/sh2008007033,Hoaxes,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh85029406,Composition (Language arts),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh85134705,"Theology, Practical",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
+http://semantics.gr/authorities/SSH-LCSH/sh85014576,Black humor,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
+http://semantics.gr/authorities/SSH-LCSH/sh85070359,Jewish wit and humor,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
+http://semantics.gr/authorities/SSH-LCSH/sh85098245,Parodies,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh85122415,Signs and symbols,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
+http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300137794,communication
 http://semantics.gr/authorities/SSH-LCSH/sh85127241,Stage directions,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417798,verse drama
 http://semantics.gr/authorities/SSH-LCSH/sh85022627,Charades,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417798,verse drama
-http://semantics.gr/authorities/SSH-LCSH/sh85044148,Entremés,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417798,verse drama
 http://semantics.gr/authorities/SSH-LCSH/sh85134575,Theater of the absurd,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417798,verse drama
 http://semantics.gr/authorities/SSH-LCSH/sh85131807,Tableaux,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417798,verse drama
 http://semantics.gr/authorities/SSH-LCSH/sh85074523,"Language and languages, Etymology",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054257,historical linguistics
-http://semantics.gr/authorities/SSH-LCSH/sh85070320,Jewish religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055939,ethics
-http://semantics.gr/authorities/SSH-LCSH/sh2006005871,Moral exhortation,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055939,ethics
 http://semantics.gr/authorities/SSH-LCSH/sh85112510,Reliability,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055939,ethics
-http://semantics.gr/authorities/SSH-LCSH/sh85025625,"Church history, Middle Ages, 600-1500",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054394,history
+http://semantics.gr/authorities/SSH-LCSH/sh86007345,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300167056,songs
 http://semantics.gr/authorities/SSH-LCSH/sh98003710,Alma maters (Songs),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300167056,songs
+http://semantics.gr/authorities/SSH-LCSH/sh2012003892,Epicedia,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300167056,songs
+http://semantics.gr/authorities/SSH-LCSH/sh85052425,Funeral service,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300069084,events
+http://semantics.gr/authorities/SSH-LCSH/sh94000854,Mystagogy,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300145966,religious concepts
 http://semantics.gr/authorities/SSH-LCSH/sh85142883,Versification,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300312347,philosophy of art
 http://semantics.gr/authorities/SSH-LCSH/sh93004725,Doctrine of the affections,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300312347,philosophy of art
 http://semantics.gr/authorities/SSH-LCSH/sh85129380,"Style, Musical",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300312347,philosophy of art
-http://semantics.gr/authorities/SSH-LCSH/sh85128571,Stream of consciousness fiction,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055918,fiction
 http://semantics.gr/authorities/SSH-LCSH/sh85051662,Free indirect speech,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055918,fiction
 http://semantics.gr/authorities/SSH-LCSH/sh85048066,Autobiographical fiction,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055918,fiction
-http://semantics.gr/authorities/SSH-LCSH/sh85070320,Jewish religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054290,ethics
-http://semantics.gr/authorities/SSH-LCSH/sh2006005871,Moral exhortation,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054290,ethics
+http://semantics.gr/authorities/SSH-LCSH/sh2007009497,Situation comedies (Television programs),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300201014,comedies
+http://semantics.gr/authorities/SSH-LCSH/sh2019000547,Slapstick comedy films,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300201014,comedies
+http://semantics.gr/authorities/SSH-LCSH/sh2004001046,Romantic comedy films,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300201014,comedies
 http://semantics.gr/authorities/SSH-LCSH/sh85112510,Reliability,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054290,ethics
 http://semantics.gr/authorities/SSH-LCSH/sh2011002678,"Autobiographical comic books, strips, etc.",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300015635,comics
-http://semantics.gr/authorities/SSH-LCSH/sh85052425,Funeral service,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055807,customs
+http://semantics.gr/authorities/SSH-LCSH/sh85129194,Structural design,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300138082,techniques
+http://semantics.gr/authorities/SSH-LCSH/sh2003009146,"Warhammer 40,000 (Game)",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300222752,table games
+http://semantics.gr/authorities/SSH-LCSH/sh85129194,Structural design,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054462,science
 http://semantics.gr/authorities/SSH-LCSH/sh85048175,Figures of speech,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417629,mythologies
 http://semantics.gr/authorities/SSH-LCSH/sh85036288,Islamic decoration and ornament,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054195,fine arts
 http://semantics.gr/authorities/SSH-LCSH/sh85033847,Creative writing,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054195,fine arts
 http://semantics.gr/authorities/SSH-LCSH/sh85077571,Literature and science,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054136,humanities
+http://semantics.gr/authorities/SSH-LCSH/sh2018003244,Court proceedings,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300133011,administration
 http://semantics.gr/authorities/SSH-LCSH/sh85114860,Role playing,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300065206,social status
+http://semantics.gr/authorities/SSH-LCSH/sh85119773,Self-organizing systems,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055149,cognition
 http://semantics.gr/authorities/SSH-LCSH/sh85038409,Discussion in religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054360,education
 http://semantics.gr/authorities/SSH-LCSH/sh85039339,Drama in religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054360,education
 http://semantics.gr/authorities/SSH-LCSH/sh85087567,Motivation in religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054360,education
@@ -3456,40 +3540,34 @@ http://semantics.gr/authorities/SSH-LCSH/sh85148570,Worship (Religious education
 http://semantics.gr/authorities/SSH-LCSH/sh85038271,Directors of religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054360,education
 http://semantics.gr/authorities/SSH-LCSH/sh85088164,Motion pictures in religious education,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054360,education
 http://semantics.gr/authorities/SSH-LCSH/sh85023776,Children's sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300025945,children
+http://semantics.gr/authorities/SSH-LCSH/sh85088014,"Movement, Psychology of",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054471,physiology
 http://semantics.gr/authorities/SSH-LCSH/sh85145901,Wedding sermons,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300069158,weddings
-http://semantics.gr/authorities/SSH-LCSH/sh85129194,Structural design,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054183,industrial design
-http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300129439,encyclopedias
-http://semantics.gr/authorities/SSH-LCSH/sh85014576,Black humor,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85025625,"Church history, Middle Ages, 600-1500",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054309,religious history
+http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300069186,contests
 http://semantics.gr/authorities/SSH-LCSH/sh85033847,Creative writing,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85070359,Jewish wit and humor,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh90005732,"Literary movements, Soviet Union",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh2006006884,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85112916,Repetition (Rhetoric),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh2009000040,Simultanism (Literature),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85064663,Impressionism,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85014164,Biography as a literary form,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh89000478,Postmodernism (Literature),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85098245,Parodies,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh95003414,Minimalism (Literature),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85038363,"Discourse analysis, Literary",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85052620,Futurism (Literary movement),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh93005939,"Literary movements, France",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85086446,Modernism (Literature),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85037398,Devotional literature,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85013810,Bible as literature,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
-http://semantics.gr/authorities/SSH-LCSH/sh85113965,Riddles,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh85131410,Symbolism (Literary movement),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
 http://semantics.gr/authorities/SSH-LCSH/sh2001012436,"Literary movements, Poland",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417585,literature
+http://semantics.gr/authorities/SSH-LCSH/sh85025851,Church year,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300379242,days
+http://semantics.gr/authorities/SSH-LCSH/sh85144838,,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055931,poetry
 http://semantics.gr/authorities/SSH-LCSH/sh85052377,Funeral hymns,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055931,poetry
 http://semantics.gr/authorities/SSH-LCSH/sh2004004927,Poetry slams,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055931,poetry
 http://semantics.gr/authorities/SSH-LCSH/sh2019102995,Choral lyric,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300055931,poetry
 http://semantics.gr/authorities/SSH-LCSH/sh85082269,Maturation (Psychology),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054446,psychology
-http://semantics.gr/authorities/SSH-LCSH/sh85119773,Self-organizing systems,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054446,psychology
+http://semantics.gr/authorities/SSH-LCSH/sh85088014,"Movement, Psychology of",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054446,psychology
 http://semantics.gr/authorities/SSH-LCSH/sh85035151,Cynics (Greek philosophy),http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300054446,psychology
 http://semantics.gr/authorities/SSH-LCSH/sh85036288,Islamic decoration and ornament,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417586,art
 http://semantics.gr/authorities/SSH-LCSH/sh85033847,Creative writing,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300417586,art
 http://semantics.gr/authorities/SSH-LCSH/sh85104881,"Popes, Temporal power",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300235937,sovereignty
-http://semantics.gr/authorities/SSH-LCSH/sh85025534,Church and state,http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300235937,sovereignty
 http://semantics.gr/authorities/SSH-LCSH/sh85105855,"Pottery, Roman",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300311592,antiquities
 http://semantics.gr/authorities/SSH-LCSH/sh85050976,"Fortification, Greek",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300311592,antiquities
 http://semantics.gr/authorities/SSH-LCSH/sh85093267,"Numismatics, Roman",http://www.w3.org/2004/02/skos/core#relatedMatch,http://vocab.getty.edu/aat/300311592,antiquities
