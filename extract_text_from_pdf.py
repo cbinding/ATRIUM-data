@@ -1,5 +1,5 @@
 # see https://www.geeksforgeeks.org/extract-text-from-pdf-file-using-python/
-
+import requests, os
 # importing required modules 
 from pypdf import PdfReader 
 
@@ -21,7 +21,16 @@ def main():
     cleaned = " ".join(text3.split()).replace("- ", "")
 
     print(cleaned)
+
+def get_file_from_url(source_url: str="", target_folder: str=""):
+    target = os.path.join(target_folder, "tmp1.pdf")
+    response = requests.get(source_url, timeout=30)
+    with open(target, "wb") as file:
+        file.write(response.content)
+    
+
     
 
 if __name__ == "__main__":
     main()
+    
