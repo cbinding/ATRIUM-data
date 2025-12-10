@@ -4,3 +4,4 @@ beautifulsoup4>=4.12.3
 oxrdflib>=0.3.7
 pandas>=2.2.2
 lxml>=5.2.1
+pypdf==6.1.3
